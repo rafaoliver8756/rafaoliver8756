@@ -17,5 +17,5 @@ Me chamo Rafaela, tenho 20 anos e sou natural de Minas Gerais. Atualmente, estou
 
 <p align="left">
   <img src="https://github-readme-stats-two-nu.vercel.app/api?username=rafaoliver8756&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" height="180" />
-  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=rafaoliver8756&layout=compact&theme=dracula" alt="Top Linguagens" height="180" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=rafaoliver8756&layout=compact&theme=dracula&cache_seconds=0" alt="Top Linguagens" height="180" />
 </p>
