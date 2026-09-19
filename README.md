@@ -2,7 +2,7 @@
 
 **`Desenvolvedora em Formação`**
 
-Me chamo Rafaela, tenho 20 anos e sou de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNA da minha cidade.
+Oii aqui é a Rafa, tenho 20 anos e sou de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNA da minha cidade.
 
 ### 🤖 Linguagens e Tecnologias
 
