@@ -4,7 +4,7 @@
 
 Oii aqui é a Rafa, tenho 20 anos e sou de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNA da minha cidade.
 
-🔗 **Meu portfólio:** [Portifólio-Rafaela](https://portifolio-rafaela.netlify.app/)
+🔗[Portifólio-Rafaela](https://portifolio-rafaela.netlify.app/)
 
 ### 🤖 Linguagens e Tecnologias
 
